@@ -281,6 +281,8 @@ La Playa de San Sebastián ofrece unas magníficas vistas sobre uno de los hotel
    
    Hamacas. Precio por cada hamaca: **5€ IVA incl**
    
+   Sillas: **Incluidas 20 sillas de manera gratuïta en la reserva del campo de futbol playa**
+   
   </ul>
 </p>
 <p> F&B. 
@@ -313,6 +315,7 @@ font-style: italic;
 Delante de la Playa de la Mar bella se encuentra la Base Náutica Municipal de Barcelona. Al tratarse de un espacio público y de un grupo tan grande es posible que se tengan que pedir premisos al ayuntamiento si se quiere señalizar la zona, en este caso, pues, no sería posible establecer ni hamacas ni sombrillas en la playa. 
 
 No obstante, la Base Náutica dispone de un espacio prolongado en la playa para la entreada al agua y donde se pueden instalar varios campos de vollei o futvollei.
+*En esta localización no es posible establecer un campo de futbol, que el espacio del que disponen no es lo suficientemente grande para establecer un campo de futbol. Sin embargo, damos la alternativa a montar una pista de FutVollei*
 
 <img src = "nautica1.png" width="100%">
 
