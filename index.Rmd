@@ -254,7 +254,7 @@ font-style: italic;
 
 *Disponibles los días: 4,5, 12, 18 y 19 de Septiembre.*
 
-Delante de la Playa San Sebastián se encuentran unas fantasticas instalaciones deportivas capacitadas para organizar actividades deportivas y recreativas para empresas.  Club Natació Barcelona.
+Delante de la Playa San Sebastián se encuentran unas fantasticas instalaciones deportivas capacitadas para organizar actividades deportivas y recreativas para empresas. Club Natació Barcelona.
 
 Las pistas de futbol y voley se encontraran a escasos metros del agua del mar, por lo que los clientes podrán combinar el deporte con relajación en las sillas o las hamacas, y con unbaño refrescante en el Mar Mediterraneo. 
 
@@ -277,9 +277,9 @@ La Playa de San Sebastián ofrece unas magníficas vistas sobre uno de los hotel
    
    Cancha de futbol en la playa. Precio por cada hora: **180€ IVA incl.**
    
-   Sombrillas. Precio por cada sombrilla: **9€ IVA incl.**
+   Sombrillas. Precio por cada sombrilla. Por un máximo de 15.: **9€ IVA incl.**
    
-   Hamacas. Precio por cada hamaca: **5€ IVA incl**
+   Hamacas. Precio por cada hamaca. Por un máximo de 30: **5€ IVA incl**
    
    Sillas: **Incluidas 20 sillas de manera gratuita en la reserva del campo de futbol playa**
    
