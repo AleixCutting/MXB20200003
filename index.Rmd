@@ -364,9 +364,11 @@ font-style: italic;
 }
 </style>
 
+<br>
+
 # TÉRMINOS Y CONDICIONES
 
-  * Rates valid for September 2020
+  * Tarifas válidas para Septiembre de 2020
   
   * Precios netos Integra Convenciones
   
