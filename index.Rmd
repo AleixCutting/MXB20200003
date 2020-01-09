@@ -342,9 +342,9 @@ Los clientes también pueden usar las instalaciones de la Base Náutica para rel
 <p> F&B. 
   <ul>
   
-   Barril para 200 cervezas: **700€ IVA incl**
+   Barril para 200 cervezas: **650€ IVA incl**
    
-   400 botellas de agua durante evento: **1500€ IVA incl.**
+   400 botellas de agua durante evento: **1450€ IVA incl.**
    
   </ul>
 </p>
@@ -370,15 +370,15 @@ font-style: italic;
 
   * Tarifas válidas para Septiembre de 2020
   
-  * Precios netos Integra Convenciones
+  * Precios netos Integra Convenciones.
   
   * Por un grupo mínimo de 240 personas.
   
-  * Cutting Edge Events management fee incluido en los precios
+  * Cutting Edge Events management fee incluido en los precios.
   
   * IVA incluido. 
   
-  * No se ha reservado ningún servicio. Disponibilidad bajo petición..
+  * No se ha reservado ningún servicio. Disponibilidad bajo petición.
   
 *****
 
